@@ -55,3 +55,6 @@ The goal is to extract **valuable business insights** and provide **simple actio
 
 ## 📈 Key Outcome  
 ➡️ The project demonstrates how **statistics + probability + visualization** can uncover **business-critical insights** from raw data and guide **decision-making strategies**.  
+
+
+view Link :https://colab.research.google.com/drive/1PdfRQc3X5d99SW3OZstZzwBDCX8B9w8Z?usp=drive_link
